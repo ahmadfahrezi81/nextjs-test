@@ -9,7 +9,8 @@ export default function Home() {
             <p>Universiti malaya kebangaan</p>
             <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Cat_August_2010-4.jpg" />
 
-            <h3>Harits Daffa</h3>
+            <h3>KUCING</h3>
+
         </>
     );
 }
