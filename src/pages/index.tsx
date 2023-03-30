@@ -11,6 +11,7 @@ export default function Home() {
 
             <h3>KUCING</h3>
 
+            <h1>testtttttt</h1>
         </>
     );
 }
